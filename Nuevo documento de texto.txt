@@ -1,1 +1,21 @@
 html.index
+
+Alternativas a GitHub: un resumen de las 5 mejores aplicaciones
+¿Te ha gustado el artículo? 0
+¿Te ha gustado el artículo? 0
+Para la mayoría de desarrolladores, GitHub es una importante herramienta para el acceso centralizado a los proyectos gracias a las ventajas que plantea para el alojamiento de código. En este sentido, el servicio permite que varios participantes trabajen en un mismo proyecto a nivel global y que guarden sus cambios en cualquier momento y de forma independiente. A diferencia de otros proveedores de servicios, en lo que respecta a la administración de software open source, en GitHub el foco de atención no se sitúa en el proyecto como una compilación de código fuente, sino en la posibilidad de hacer un uso individualizado de los repositorios (directorios gestionados con Git). Los usuarios de GitHub pueden utilizar Git o Subversion como VCS (Version Control System) para gestionar, revisar y preparar sus proyectos de software.
+
+Índice [ ocultar ]
+Ventajas e inconvenientes de usar GitHub
+GitLab
+SourceForge
+Cloud Source Repositories
+GitKraken
+Apache Allura
+ Hecho
+En el caso de los sistemas de gestión de versiones centralizados como CVS o SVN, el código fuente y otros archivos se almacenan en un repositorio o en un archivo de proyectos, desde donde pueden cargarse en otros ordenadores. Una vez terminada la edición, los archivos modificados pueden volver a introducirse en el repositorio, en cuyo caso la modificación también queda registrada.
+
+Ventajas e inconvenientes de usar GitHub
+Una ventaja importante de GitHub es que el servicio pone a disposición de todos los usuarios repositorios de código públicos y libres sin límites. Sin embargo, el mantenimiento de repositorios privados está sujeto al pago de una suscripción mensual. GitHub también ofrece la posibilidad de crear “organizaciones” que hacen las veces de cuentas regulares a menos que tengas como mínimo una cuenta de usuario de tu propiedad.
+
+A pesar de todo, en algunos casos puede haber cierta
