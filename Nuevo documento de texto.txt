@@ -19,3 +19,4 @@ Ventajas e inconvenientes de usar GitHub
 Una ventaja importante de GitHub es que el servicio pone a disposición de todos los usuarios repositorios de código públicos y libres sin límites. Sin embargo, el mantenimiento de repositorios privados está sujeto al pago de una suscripción mensual. GitHub también ofrece la posibilidad de crear “organizaciones” que hacen las veces de cuentas regulares a menos que tengas como mínimo una cuenta de usuario de tu propiedad.
 
 A pesar de todo, en algunos casos puede haber cierta
+esto lo agregue yo
